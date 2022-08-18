@@ -1,0 +1,21 @@
+{
+    "name": "LoRaAT_A39CT400Axx",
+    "keywords": "LoRa,LLCC68,UART,433,A39C,T400",
+    "description": "A LTR-55x model drive",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/WishToo/LoRaAT"
+    },
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "atmelavr, atmelsam, freescalekinetis, nordicnrf51, nxplpc, ststm32, teensy, espressif8266, espressif32, nordicnrf52",
+    "authors": [
+        { "name": "Scotty Franzyshen" }, 
+        { 
+            "name": "Coopdis",
+            "url": "https://github.com/WishToo"
+        }, 
+        { "name": "WishToo" }
+    ],
+    "headers": "LoRaAT.h"
+}
